@@ -1,4 +1,4 @@
-# VSDSquadron_Task1_Hardware_Setup
+# VSDSquadron_PRO_Internship
 
 VSDSquadron PRO Internship Task 1 – Hardware Setup & Validation
 
